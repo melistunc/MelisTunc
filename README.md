@@ -1,4 +1,4 @@
-
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=melistunc&show_icons=true&theme=gradient) 
 <!--
 **melistunc/MelisTunc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
