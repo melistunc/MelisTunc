@@ -1,6 +1,6 @@
 <h3 align="center"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melistunc&label=Profile%20views&color=0e75b6&style=flat" alt="melistunc" /> </p>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/melis-tunç-2ba925263/) 
 
