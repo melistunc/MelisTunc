@@ -1,7 +1,9 @@
 <h3 align="center"></h3>
 
    🔭 Robotics, Python, Deep Learning, Artificial Intelligence and Image Processing: *Kağıt ve Plastik Atık Ayrıştırıcı Çöp Kovası Projesi*
+   
    🌱 I’m currently learning: *Swift, İOS development and Machine Learning*
+   
    📫 How to reach me: *melistunnncc@gmail.com*
 
 
